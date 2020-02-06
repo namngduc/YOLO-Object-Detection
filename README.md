@@ -7,3 +7,4 @@ For more information see the [Darknet project website](http://pjreddie.com/darkn
 
 For questions or issues please use the [Google Group](https://groups.google.com/forum/#!forum/darknet).
 # YOLO-Object-Detection
+![](https://github.com/namngduc/YOLO-Object-Detection/blob/master/obj-detection/object-detection.jpg)
